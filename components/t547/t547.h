@@ -5,8 +5,6 @@
 #include "esphome/core/version.h"
 #include "esphome/components/display/display_buffer.h"
 
-#include "epd_driver.h"
-
 #ifdef USE_ESP32_FRAMEWORK_ARDUINO
 
 namespace esphome {
